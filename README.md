@@ -83,10 +83,7 @@ GeminiChatApp/
    npm install
    ```
 
-3. Add API Key:
-   Open the `src/config/gemini.js` file and replace the placeholder API key with your Google Generative AI API key.
-
-4. Start the Development Server:
+3. Start the Development Server:
    ```sh
    npm start
    ```
@@ -94,4 +91,3 @@ GeminiChatApp/
 5. Access the Application:
    Open your browser and navigate to `http://localhost:3000`.
 
-By following these steps, you will be able to run and interact with the Gemini Chat Application.
