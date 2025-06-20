@@ -69,7 +69,7 @@ GeminiChatApp/
 ## Running the Project
 
 ### Prerequisites
-- Node.js and npm installed on your machine.
+- Node.js and npm installed on the local machine.
 
 ### Steps
 1. Clone the Repository:
